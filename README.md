@@ -4,3 +4,7 @@ this is a list for unblocked games sites I know
 * https://vapor.my
 * https://endis.rest
 * https://jobi.one
+
+
+
+* Submite a PR to add sites you like
